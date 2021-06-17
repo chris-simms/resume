@@ -11,14 +11,13 @@ My broad technical background and ingenuity enable me to create efficient, scala
 
 ## Skills
 - **DevOps**:
-Ansible Tower • Ansible Vault • GitLab • Nexus • Jenkins • Azure Resource Manager (ARM) • CloudFormation •
-AWS CodePipeline • AWS CodeCommit • AWS CodeBuild • AWS CodeArtifact • AWS CodeDeploy
+Ansible Tower • Ansible Vault • Ansible • Terraform • GitLab • Nexus • Jenkins • Azure Resource Manager (ARM) • CloudFormation • AWS CodePipeline • AWS CodeCommit • AWS CodeBuild • AWS CodeArtifact • AWS CodeDeploy
 
 - **Compute**:
-Windows Server • Red Hat • CentOS • Amazon Linux • Ubuntu • Debian • Cisco UCM • VMware ESXi • AWS EC2 • Azure VM • AWS Lambda • Azure Function Apps • Rancher • Kubernetes • VMware Horizon • AWS WorkSpaces
+Windows Server • Red Hat • CentOS • Amazon Linux • Ubuntu • Debian • Cisco UCM • VMware ESXi • Proxmox • AWS EC2 • Azure VM • AWS Lambda • Azure Function Apps • Rancher • Kubernetes • VMware Horizon • AWS WorkSpaces • Azure Virtual Desktop
 
 - **Web**:
-IIS • Tomcat • NGINX • AWS ElasticBeanstalk • Azure App Services • SOAP • REST • HTML • CSS • Bootstrap
+IIS • Tomcat • NGINX • AWS ElasticBeanstalk • Azure App Services • SOAP • REST • Bootstrap
 
 - **Data**:
 SQL Server • MySQL • PostreSQL • MongoDB • Oracle • ArcGIS • AWS RDS • Azure SQL • AWS DynamoDB •
@@ -35,7 +34,7 @@ AWS ELB • Azure App Gateway • Kemp • Flannel • OpenVPN • pfSense • I
 Active Directory • Group Policy • SCCM • Red Hat Satellite • KACE • AWS Organizations • McAfee EPO • Nessus
 
 - **Code**:
-Ansible • PowerShell • Batch • Python • SQL • JSON • YAML
+PowerShell • Batch • Python • SQL • HTML • CSS • YAML • HCL • JSON
 
 - **Management**:
 Agile • Lean • ITIL
@@ -46,10 +45,6 @@ Agile • Lean • ITIL
 - **A.A.S - Computer Networking and Information Systems Security**\
 Clover Park Technical College\
 2011 - 2014
-
-- **High School Diploma**\
-Orting High School\
-2006 - 2010
 <br />
 
 
@@ -70,19 +65,21 @@ Amazon Web Services\
 
 ## Experience
 - ### Cloud DevOps Engineer - Ciox Health
-  Oct. 2018 - Present *(1 Year, 11 Months)*\
+  Oct. 2018 - Present *(2 Years, 8 Months)*\
   Phoenix, AZ
 
-  As a senior member of a DevOps team of 3, I develop and maintain automation for cloud-based resources using Ansible + CloudFormation / ARM templates. My other responsibilities include postmortem troubleshooting, adopting new cloud services, optimizing spend, creating standards, documenting technical processes, migrating applications to AWS / Azure, building infrastructure for new n-tier applications, and providing architectural expertise to my peers. Currently migrating Ciox's second largest application to Azure.
+  On a DevOps team of 4, I develop and maintain automation for cloud-based resources using Ansible, CloudFormation, and ARM templates. I also assume the roles of firefighter, postmortem investigator, silo breaker, cost optimizer, standard generator, workload migrator, solution architect, and builder.
 
   #### Accomplishments:
-  - Led our adoption of Infrastructure as Code (IaC).
-  - Architected most of our footprint in Azure.
-  - Created our AWS and Azure resource naming and tagging standards.
-  - Developed a Lambda function for cleaning up orphaned EBS snapshots.
-  - Developed a Lambda function for rotating indexes in AWS Elasticsearch via Curator.
-  - Developed and maintain our Ansible roles for AWS (Redshift, Backup, S3, EC2, Elasticsearch).
-  - Developed and maintain our Ansible roles for Azure (App Service Environment, App Service Plan, Web App, Function App, Application Insight, SQL Managed Instance, SQL Managed Database, SQL VM, VM, Key Vault, Storage, Application Gateway, Database Migration Service).
+  -	Migrated Chartfinder, our largest application (~$150 million / year), to Azure
+  -	Led our adoption of Infrastructure as Code (IaC).
+  -	Architected most of our footprint in Azure.
+  -	Created our AWS and Azure resource naming and tagging standards.
+  -	Developed a Lambda function for cleaning up orphaned EBS snapshots.
+  -	Developed a Lambda function for rotating indexes in AWS Elasticsearch via Curator.
+  -	Developed and maintain our Ansible roles for AWS (Redshift, Backup, S3, EC2, Elasticsearch).
+  -	Developed and maintain our Ansible roles for Azure (App Service Environment, App Service Plan, Web App, Function App, Application Insight, SQL Managed Instance, SQL Managed Database, SQL VM, VM, Key Vault, Storage, Application Gateway, Database Migration Service).
+
 
 - ### Systems Administrator - Arizona Department of Health Services
   Sep. 2016 - Oct. 2018 *(2 Years, 2 Months)*\
